@@ -1,0 +1,9 @@
+[submodule "modules/styled-components-fix-insert-rules"]
+	path = modules/styled-components-fix-insert-rules
+	url = https://github.com/strozw/styled-components
+[submodule "modules/styled-components-support-force-enable-speedy"]
+	path = modules/styled-components-support-force-enable-speedy
+	url = https://github.com/strozw/styled-components
+[submodule "modules/styled-components-fixed-insert-rules"]
+	path = modules/styled-components-fixed-insert-rules
+	url = https://github.com/strozw/styled-components
