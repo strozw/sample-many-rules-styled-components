@@ -8,7 +8,8 @@
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "styled-components": "https://gitpkg.now.sh/strozw/styled-components/packages/styled-components?add-force-enable-speedy-env"
   },
   "scripts": {
     "start": "react-scripts start",
