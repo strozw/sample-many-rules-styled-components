@@ -1,7 +1,8 @@
 {
-  "devDependencies": {
-    "customize-cra": "1.0.0",
-    "react-app-rewired": "2.1.6",
-    "react-create-app": "2.0.6"
-  }
+  "private": true,
+  "workspaces": [
+    "workspaces/*"
+  ],
+  "devDependencies": {},
+  "dependencies": {}
 }
