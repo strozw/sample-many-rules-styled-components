@@ -9,7 +9,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
-    "styled-components": "link:./styled-components-fixed-insert-rules/packages/styled-components"
+    "styled-components": "link:../../styled-components/fixed-insert-rules/packages/styled-components"
   },
   "scripts": {
     "start": "cross-env PORT=3001 && react-app-rewired start",
