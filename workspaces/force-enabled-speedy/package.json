@@ -8,10 +8,11 @@
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "styled-components": "link:./styled-components-force-enabled-speedy/packages/styled-components"
   },
   "scripts": {
-    "start": "cross-env PORT=3002 react-app-rewired start",
+    "start": "cross-env PORT=3002 FORCE_ENABLE_SPEEDY=true react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
     "eject": "react-app-rewired eject"
