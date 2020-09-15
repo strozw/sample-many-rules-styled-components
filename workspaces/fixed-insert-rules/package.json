@@ -9,7 +9,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
-    "styled-components": "https://gitpkg.now.sh/strozw/styled-components/packages/styled-components?fix-insertRules-performance-in-TextTag"
+    "styled-components": "link:./workspaces/fixed-insert-rules/styled-components/packages/styled-components"
   },
   "scripts": {
     "start": "react-scripts start",

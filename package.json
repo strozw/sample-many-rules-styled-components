@@ -3,6 +3,15 @@
   "workspaces": [
     "workspaces/*"
   ],
-  "devDependencies": {},
-  "dependencies": {}
+  "devDependencies": {
+    "npm-run-all": "4.1.5",
+    "yarn": "1.22.5"
+  },
+  "dependencies": {},
+  "scripts": {
+    "postinstall": "npm run install:sc",
+    "install:sc:fixed-insert-rules": "cd ./workspaces/fixed-insert-rules/styled-components && yarn && yarn build",
+    "install:sc:force-enabled-speedy": "cd ./workspaces/force-enabled-speedy/styled-components && yarn && yarn build",
+    "install:sc": "run-p install:sc:*"
+  }
 }
