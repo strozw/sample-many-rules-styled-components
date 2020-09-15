@@ -9,9 +9,10 @@
     "react-app-rewired": "2.1.6",
     "yarn": "1.22.5"
   },
-  "dependencies": {},
+  "dependencies": {
+    "styled-components": "5.2.0"
+  },
   "scripts": {
-    "postinstall": "npm run install:sc",
     "install:sc:fixed-insert-rules": "cd ./workspaces/fixed-insert-rules/styled-components && yarn && yarn build",
     "install:sc:force-enabled-speedy": "cd ./workspaces/force-enabled-speedy/styled-components && yarn && yarn build",
     "install:sc": "run-p install:sc:*"
