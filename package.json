@@ -15,8 +15,8 @@
     "styled-components": "5.2.0"
   },
   "scripts": {
-    "install:sc:fixed-insert-rules": "cd ./workspaces/fixed-insert-rules/styled-components && yarn && yarn build",
-    "install:sc:force-enabled-speedy": "cd ./workspaces/force-enabled-speedy/styled-components && yarn && yarn build",
+    "install:sc:fixed-insert-rules": "cd ./styled-components/fixed-insert-rules && yarn && yarn build",
+    "install:sc:force-enabled-speedy": "cd ./styled-components/force-enabled-speedy && yarn && yarn build",
     "install:sc": "run-p install:sc:*",
     "start": "wsrun -a start"
   }

@@ -1,6 +1,6 @@
-[submodule "workspaces/force-enabled-speedy/styled-components-force-enabled-speedy"]
-	path = workspaces/force-enabled-speedy/styled-components-force-enabled-speedy
+[submodule "styled-components/force-enabled-speedy"]
+	path = styled-components/force-enabled-speedy
 	url = https://github.com/strozw/styled-components
-[submodule "workspaces/fixed-insert-rules/styled-components-fixed-insert-rules"]
-	path = workspaces/fixed-insert-rules/styled-components-fixed-insert-rules
+[submodule "styled-components/fixed-insert-rules"]
+	path = styled-components/fixed-insert-rules
 	url = https://github.com/strozw/styled-components
