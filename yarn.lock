@@ -10020,7 +10020,7 @@ style-loader@0.23.1:
     loader-utils "^1.1.0"
     schema-utils "^1.0.0"
 
-"styled-components-fixed-insert-rules@link:./workspaces/fixed-insert-rules/styled-components/fixed-insert-rules/packages/styled-components":
+"styled-components-fixed-insert-rules@link:styled-components/fixed-insert-rules/packages/styled-components":
   version "0.0.0"
   uid ""
 
