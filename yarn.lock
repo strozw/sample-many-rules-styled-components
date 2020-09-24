@@ -10020,6 +10020,14 @@ style-loader@0.23.1:
     loader-utils "^1.1.0"
     schema-utils "^1.0.0"
 
+"styled-components-fixed-insert-rules@link:./workspaces/fixed-insert-rules/styled-components/fixed-insert-rules/packages/styled-components":
+  version "0.0.0"
+  uid ""
+
+"styled-components-force-enabled-speedy@link:styled-components/force-enabled-speedy/packages/styled-components":
+  version "0.0.0"
+  uid ""
+
 styled-components@5.2.0:
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/styled-components/-/styled-components-5.2.0.tgz#6dcb5aa8a629c84b8d5ab34b7167e3e0c6f7ed74"
@@ -10035,14 +10043,6 @@ styled-components@5.2.0:
     hoist-non-react-statics "^3.0.0"
     shallowequal "^1.1.0"
     supports-color "^5.5.0"
-
-"styled-components@link:./workspaces/fixed-insert-rules/styled-components/fixed-insert-rules/packages/styled-components":
-  version "0.0.0"
-  uid ""
-
-"styled-components@link:styled-components/force-enabled-speedy/packages/styled-components":
-  version "0.0.0"
-  uid ""
 
 stylehacks@^4.0.0:
   version "4.0.3"
