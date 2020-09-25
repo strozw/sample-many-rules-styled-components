@@ -1,0 +1,3 @@
+[submodule "styled-components/fixed-insert-rules"]
+	path = styled-components/fixed-insert-rules
+	url = https://github.com/strozw/styled-components
