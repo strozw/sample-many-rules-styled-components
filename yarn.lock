@@ -10024,10 +10024,6 @@ style-loader@0.23.1:
   version "0.0.0"
   uid ""
 
-"styled-components-force-enabled-speedy@link:styled-components/force-enabled-speedy/packages/styled-components":
-  version "0.0.0"
-  uid ""
-
 styled-components@5.2.0:
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/styled-components/-/styled-components-5.2.0.tgz#6dcb5aa8a629c84b8d5ab34b7167e3e0c6f7ed74"

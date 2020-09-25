@@ -1,9 +1,6 @@
 import { createGlobalStyle } from 'styled-components-fixed-insert-rules'
-
-const rules = Array.from(Array(3000).keys())
-	 .map(n => `.fs${n} { font-size: ${n}px; }`)
-	 .join("\n")
+import { createManyRules } from 'utils/ruleGenerator'
 
 export const GlobalStyle = createGlobalStyle`
-	 ${rules}
+  ${createManyRules(3000)}
 `
