@@ -1,6 +1,3 @@
-[submodule "styled-components/force-enabled-speedy"]
-	path = styled-components/force-enabled-speedy
-	url = https://github.com/strozw/styled-components
 [submodule "styled-components/fixed-insert-rules"]
 	path = styled-components/fixed-insert-rules
 	url = https://github.com/strozw/styled-components
