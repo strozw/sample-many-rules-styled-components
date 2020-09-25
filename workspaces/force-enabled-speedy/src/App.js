@@ -4,6 +4,8 @@ import './App.css';
 import { GlobalStyle } from './GlobalStyle'
 
 function App() {
+  console.log(process.env.REACT_APP_SC_FORCE_ENABLE_SPEEDY)
+
   return (
     <div className="App">
       <GlobalStyle />
