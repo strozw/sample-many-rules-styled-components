@@ -5,15 +5,16 @@ This repository is for checking the behavior of styled components with many rule
 ## Contain Apps
 
 The following react app renders a CGS (createGlobalStyle) Comopnent with 3000 rules.
-You can experience the improvement in operation speed by checking each operation with the perfomance tab of dev tools of chrome.
+You can see the difference in speed on the Performance tab of Chrome dev tools.
 
 ### `workspaces/normal` 
 
-use recent styled-components v5 applications
+Use recent styled-components v5 applications
 
 ### `workspaces/fixed-insert-rules`
 
-Use [this branch](https://github.com/strozw/styled-components/tree/fix-insertRules-performance-in-TextTag) and use performance improved styled components about insert rules in development.
+Use performance improved styled-components about insert rules at development.
+This styled-components fix was made in [this branch](https://github.com/strozw/styled-components/tree/fix-insertRules-performance-in-TextTag)
 
 ## How
 
