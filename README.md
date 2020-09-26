@@ -9,14 +9,16 @@ You can experience the improvement in operation speed by checking each operation
 
 ### `workspaces/normal` 
 
-Using recent styled-components v5 applications
+use recent styled-components v5 applications
 
 ### `workspaces/fixed-insert-rules`
 
-Using insert rules perfomance imploved styled-components.
+Use [this branch](https://github.com/strozw/styled-components/tree/fix-insertRules-performance-in-TextTag) and use performance improved styled components about insert rules in development.
 
 ## How
 
 1. `yarn`
 2. `yarn start`
-3. open 2 react app 
+3. open 2 react app automaticaly
+ * `workspaces/normal` open at `http://localhost:3000`.
+ * `workspaces/fixed-insert-rules` open at `http://localhost:3100`.
