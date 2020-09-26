@@ -14,7 +14,7 @@ Use recent styled-components v5 applications
 ### `workspaces/fixed-insert-rules`
 
 Use performance improved styled-components about insert rules at development.
-This styled-components fix was made in [this branch](https://github.com/strozw/styled-components/tree/fix-insertRules-performance-in-TextTag)
+This styled-components fix was made in [this branch](https://github.com/styled-components/styled-components/compare/master...strozw:fix-insertRules-performance-in-TextTag)
 
 ## How
 
