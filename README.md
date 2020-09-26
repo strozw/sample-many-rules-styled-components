@@ -11,7 +11,7 @@ You can experience the improvement in operation speed by checking each operation
 
 Using recent styled-components v5 applications
 
-### `workspaces/normal`
+### `workspaces/fixed-insert-rules`
 
 Using insert rules perfomance imploved styled-components.
 
