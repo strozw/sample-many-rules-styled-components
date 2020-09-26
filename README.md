@@ -20,6 +20,6 @@ This styled-components fix was made in [this branch](https://github.com/strozw/s
 
 1. `yarn`
 2. `yarn start`
-3. open 2 react app automaticaly
- * `workspaces/normal` open at `http://localhost:3000`.
- * `workspaces/fixed-insert-rules` open at `http://localhost:3100`.
+3. Two react app is displayed in Browser automatically
+ * `workspaces/normal` is displayed in `http://localhost:3000`.
+ * `workspaces/fixed-insert-rules` is displayed in `http://localhost:3100`.
