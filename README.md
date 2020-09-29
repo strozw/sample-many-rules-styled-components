@@ -9,12 +9,12 @@ You can see the difference in speed on the Performance tab of Chrome dev tools.
 
 ### `workspaces/normal` 
 
-Use recent styled-components v5 applications
+Use recent styled-components v5.2
 
 ### `workspaces/fixed-insert-rules`
 
 Use performance improved styled-components about insert rules at development.
-This styled-components fix was made in [this branch](https://github.com/styled-components/styled-components/compare/master...strozw:fix-insertRules-performance-in-TextTag)
+This styled-components fix was made by [this branch](https://github.com/styled-components/styled-components/compare/master...strozw:fix-insertRules-performance-in-TextTag)
 
 ## How
 
